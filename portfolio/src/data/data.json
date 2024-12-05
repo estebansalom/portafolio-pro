@@ -1,0 +1,516 @@
+{
+    "Personal":{
+        "name": "Esteban Salom Castillo",
+        "job": "Software Developer",
+        "email": "esteban.salom@gmail.com",
+        "phone": "+506 84336258",
+        "description":"Easily adaptable 4th year college student with a Technical Degree in Software Engineering. Worked three quarters as Teacher's Aide, helping other students learn the fundamentals of programming. Aiming to leverage academic experience and a proven knowledge of software documentation, web application development and code efficiency to successfully fill the role at your company. Frequently referred to as a great leader and proactive problem solver by my peers, I can be relied upon to help your company achieve its goals. Four of my projects have been proposed by my teachers to participate in ExpoCenfo (a quarterly exposition for the university's best programming projects)."
+    },
+    "Languages":[
+        {
+            "name":"Spanish",
+            "percentage": 99,
+            "color": "#191919"
+        },
+        {
+            "name":"English",
+            "percentage": 90,
+            "color": "#626262"
+        }
+    ],
+    "Experience":[
+        {
+            "i18n":"databricks",
+            "place":"Databricks",
+            "address":"Work From Home",
+            "title":"Scale Solutions Engineer",
+            "from":"November, 2023",
+            "to":"TODAY",
+            "description":"I am currently working as a Software Support Engineer Intern on the Azure SQL Database and Managed Instance Team where I have learned and practiced skills required to manage and support SQL Server Database instances, both in Azure and on premises. Some of the areas of database development and maintenance I have been practicing include:",
+            "image": "https://res.cloudinary.com/esalomc/image/upload/v1733376602/databricks.png",
+            "tasks":[
+                {"name":"Development"},
+                {"name":"Conectivity"},
+                {"name":"Security"}
+            ]
+        },
+        {
+            "i18n":"microsoft",
+            "place":"Microsoft",
+            "address":"Work From Home",
+            "title":"Azure SQL DB & Managed Instance Support Engineer",
+            "from":"February, 2022",
+            "to":"TODAY",
+            "description":"I am currently working as a Software Support Engineer Intern on the Azure SQL Database and Managed Instance Team where I have learned and practiced skills required to manage and support SQL Server Database instances, both in Azure and on premises. Some of the areas of database development and maintenance I have been practicing include:",
+            "image": "https://res.cloudinary.com/esalomc/image/upload/v1650508938/ms-logo.png",
+            "tasks":[
+                {"name":"Development"},
+                {"name":"Conectivity"},
+                {"name":"Security"}
+            ]
+        },
+        {
+            "i18n":"microsoft-int",
+            "place":"Microsoft",
+            "address":"Work From Home",
+            "title":"Azure SQL DB & Managed Instance Support Engineer Intern",
+            "from":"February, 2022",
+            "to":"TODAY",
+            "description":"I am currently working as a Software Support Engineer Intern on the Azure SQL Database and Managed Instance Team where I have learned and practiced skills required to manage and support SQL Server Database instances, both in Azure and on premises. Some of the areas of database development and maintenance I have been practicing include:",
+            "image": "https://res.cloudinary.com/esalomc/image/upload/v1650508938/ms-logo.png",
+            "tasks":[
+                {"name":"Development"},
+                {"name":"Conectivity"},
+                {"name":"Security"}
+            ]
+        },
+        {
+            "i18n":"amazon",
+            "place":"Amazon",
+            "address":"Work From Home",
+            "title":"Shipping & Delivery Support",
+            "from":"October, 2020",
+            "to":"January, 2021",
+            "description":"I was part of the Shipping & Delivery Support team at Amazon while trying to apply for a Development Job from within the company. I was awarded Top Performer on our caller satisfaction metric for two weeks straight on my supervisor's group. Some of my responsibilities while working at Amazon include:",
+            "image": "https://res.cloudinary.com/esalomc/image/upload/v1650510094/amzn-logo.png",
+            "tasks":[
+                {"name":"Guiding delivery personnel using mapping tools"},
+                {"name":"Handling errors with missing shipments"},
+                {"name":"Dealing with all kinds of customers"},
+                {"name":"Providing customer oriented solutions"}
+            ]
+        },
+        {
+            "i18n":"konrad",
+            "place":"Konrad Group",
+            "address":"Tres Ríos, Cartago, Costa Rica",
+            "title":"Intern",
+            "from":"January, 2020",
+            "to":"April, 2020",
+            "description":"I was awarded a scholarship to participate in a Fullstack Web Development Immersive program where I worked with technologies such as Java Spring Boot and Node.js for back-end development, Angular, vanilla JS, and React.js w/ hooks, for front-end development, and also received several “Power Hours” with software professionals who shared useful information on Sass animations, Quality Assurance and other topics relevant to software development. Some of the skills I practiced during my time in Konrad include:",
+            "image": "https://res.cloudinary.com/esalomc/image/upload/v1622167860/bs.png",
+            "tasks":[
+                {"name":"ReactJS Development"},
+                {"name":"Responsive Web Design"},
+                {"name":"Spring Boot Development"},
+                {"name": "NodeJS Development"}
+            ]
+        },
+        {
+            "i18n":"cenfotec",
+            "place":"Universidad Cenfotec",
+            "address":"Montes de Oca, San José, Costa Rica",
+            "title":"Teacher's Aide",
+            "from":"January, 2019",
+            "to":"December, 2019",
+            "description":"My work as Teacher's Aide for the Fundamentals of Programming course at Universidad Cenfotec involved helping teach incoming students the basics of programming through a process starting in sequence diagrams and pseudocode and ending in the bases of Object-Oriented Programming in Java. Some of my responsibilities as a TA included:",
+            "image": "https://res.cloudinary.com/esalomc/image/upload/v1622167860/cenfo.png",
+            "tasks":[
+                {"name":"Helping students during class"},
+                {"name":"Answering students' questions"},
+                {"name":"Organizing and guiding study groups"}
+            ]
+        }
+    ],
+    "Formation":[
+        {
+            "i18n":"bachelor",
+            "place":"Universidad Cenfotec",
+            "from":"April, 2017",
+            "to":"present",
+            "degree":"Bachelor's Degree in Software Engineering"
+        },
+        {
+            "i18n":"tech",
+            "place":"Universidad Cenfotec",
+            "from":"April, 2017",
+            "to":"September, 2019",
+            "degree":"Software Development Technical Degree"
+        },
+        {
+            "i18n":"ucr",
+            "place":"Universidad de Costa Rica",
+            "from":"March, 2017",
+            "to":"December, 2017",
+            "degree":"Bachelor's Degree in Architecture"
+        },
+        {
+            "i18n":"tec",
+            "place":"Tecnológico de Costa Rica",
+            "from":"January, 2017",
+            "to":"August, 2017",
+            "degree":"Engineering and Architectural Drawing Technical Degree"
+        },
+        {
+            "i18n":"high",
+            "place":"Mount View High School",
+            "from":"September, 2013",
+            "to":"November, 2016",
+            "degree":"National Bachelor's Degree"
+        },
+        {
+            "i18n":"middle",
+            "place":"Angloamerican High School",
+            "from":"February, 2002",
+            "to":"September, 2013",
+            "degree":"National Bachelor's Degree"
+        }
+    ],
+    "Skills":[
+        {
+            "name":"",
+            "icon":""
+        }
+    ],
+    "SoftSkills":[
+        [
+            {
+                "name":"Great Leadership",
+                "icon":""
+            },
+            {
+                "name":"Strong Adaptability",
+                "icon":""
+            },
+            {
+                "name":"Sense of Responsibility",
+                "icon":""
+            }
+        ],
+        [
+            {
+                "name":"Intuitive Thinking",
+                "icon":""
+            },
+            {
+                "name":"Self-Motivated",
+                "icon":""
+            },
+            {
+                "name":"Team Player",
+                "icon":""
+            }
+        ],
+        [
+            {
+                "name":"Fast-Paced Worker",
+                "icon":""
+            },
+            {
+                "name":"Profficient",
+                "icon":""
+            },
+            {
+                "name":"Dedicated",
+                "icon":""
+            }
+        ]
+        
+    ],
+    "Programming":[
+        {
+            "name": "JAVA",
+            "percentage": "95",
+            "color":"#A0A0A0"
+        },
+        {
+            "name": "HTML",
+            "percentage": "99",
+            "color":"#626262"
+        },
+        {
+            "name": "JS",
+            "percentage": "85",
+            "color":"#969696"
+        },
+        {
+            "name": "PYTHON",
+            "percentage": "50",
+            "color":"#0E0E0E"
+        }
+    ],
+    "Technologies":[
+        {
+            "name":"ReactJS"
+        },
+        {
+            "name":"Angular7"
+        },
+        {
+            "name":"Java Spring"
+        }
+    ],
+    "Projects":[
+        {
+            "i18n":"moneyroomba",
+            "name":"MoneyRoomba",
+            "date":"II-2021",
+            "position": "Front-End and Back-End Development",
+            "technologies": [
+                {
+                    "type":"Back-End",
+                    "name": "Spring Boot",
+                    "icon": ""
+                },
+                {
+                    "type":"Front-End",
+                    "name": "AngularJS",
+                    "icon": ""
+                },
+                {
+                    "type":"Data Base",
+                    "name": "MySQL",
+                    "icon": ""
+                }
+            ],
+            "url":"money-roomba.herokuapp.com",
+            "description":"MoneyRoomba was presented at ExpoCenfo as one of the best projects of the second quarter of 2021 because of its electronic invoice reception system, open API, and outstanding overall quality. The project was also selected by Cenfotec to participate on behalf of the university, at the biggest regional entrepreneurship competition in Central America (YoEmprendedor). MoneyRoomba was an app developed to help everyone keep track of their finances, developed at Universidad Cenfotec while coursing “Proyecto de Ingeniería de Software III”. MoneyRoomba was developed using an Angular11 Web Application for the Front-End and a Java Spring Back-End application connected to a MySQL database, all hosted in the cloud using Heroku services. We overcame the challenge of using completely new technologies selected by our professors, such as JHipster, with less than 6 weeks' time for development.",
+            "images":[
+                {
+                    "alt": "MoneyRoomba Dashboard",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1630954609/Dashboard.png",
+                    "name":"Dashboard"
+                },
+                {
+                    "alt": "MoneyRoomba Wallet Center",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1630954609/WalletCenter.png",
+                    "name":"Wallet Center"
+                },
+                {
+                    "alt": "MoneyRoomba Transactions",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1630954609/Transactions.png",
+                    "name":"Transactions"
+                }
+                ,
+                {
+                    "alt": "MoneyRoomba Admin Console",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1630954609/AdminConsole.png",
+                    "name":"Admin Console"
+                }
+            ]
+        },
+        {
+            "i18n":"toqui",
+            "name":"Toquí",
+            "date":"II-2019",
+            "position": "Support / Coordination",
+            "technologies": [
+                {
+                    "type":"Back-End",
+                    "name": "ASP.NET REST API (C#)",
+                    "icon": ""
+                },
+                {
+                    "type":"Front-End",
+                    "name": ".NET Web Application",
+                    "icon": ""
+                },
+                {
+                    "type":"Data Base",
+                    "name": "Microsoft SQL",
+                    "icon": ""
+                }
+            ],
+            "url":"",
+            "description":"Toquí was presented at ExpoCenfo as one of the best projects of the second quarter of 2019 because of its QR code/room key payment system and the reports this generated. It was a hotel managing, promoting and booking app developed at Universidad Cenfotec while coursing “Proyecto de Ingeniería de Software II”. Toquí was developed using a .NET MVC Web Application for the Front-End and a series of C# REST APIs connected to an SQL database for the Back-End. The whole project was developed using Microsoft technologies as a challenge so we had to learn how to use tools like C#, Team Foundation Services (for version control), SQL Server 2017, Visual Studio 2019, and different services from the AzurePortal which helped us get the project from class and sequence diagrams to a fully functional application running completely on the cloud.",
+            "images":[
+                {
+                    "alt": "Toqui Landing Page",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1622167864/LandingToqui.PNG",
+                    "name":"Landing Page"
+                },
+                {
+                    "alt": "Toqui Hotel Information Page",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1622167864/PanelHotelToqui.PNG",
+                    "name":"Hotel Information Page"
+                },
+                {
+                    "alt": "Toqui Hotel Manager Dashboard",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1622167864/HoteleroToqui1.PNG",
+                    "name":"Hotel Manager Dashboard"
+                },
+                {
+                    "alt": "Toqui Hotel Manager Dashboard 2",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1622167864/HoteleroToqui2.PNG",
+                    "name":"Hotel Manager Dashboard"
+                }
+            ]
+        },
+        {
+            "i18n":"bankit",
+            "name":"BankIt",
+            "date":"I-2020",
+            "position": "Front-End and Back-End Development",
+            "technologies": [
+                {
+                    "type":"Back-End",
+                    "name": "Spring Boot",
+                    "icon": ""
+                },
+                {
+                    "type":"Front-End",
+                    "name": "ReactJS",
+                    "icon": ""
+                },
+                {
+                    "type":"Data Base",
+                    "name": "MySQL",
+                    "icon": ""
+                }
+            ],
+            "url":"",
+            "description":"This project was developed while coursing the BrainStation Web Development Immersive at Konrad Group. It was a mock bank application created as a first approach for different technologies, using ReactJS with hooks for the Front-End, Spring Boot for the Back-End, and a MySQL Database.",
+            "images":[
+                {
+                    "alt": "BankIt Dashboard",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1622167864/BancoDashboard.PNG",
+                    "name":"Dashboard"
+                },
+                {
+                    "alt": "BankIt Login Page",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1622167864/BancoLogin.PNG",
+                    "name":"Login"
+                },
+                {
+                    "alt": "BankIt Page",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1622167864/BancoTransfer.PNG",
+                    "name":"Register Transfer Page"
+                }
+            ]
+        },
+        {
+            "i18n":"reinos",
+            "name":"Reinos Cenfotecos",
+            "date":"II-2020",
+            "position": "Front-End and Back-End Development",
+            "technologies": [
+                {
+                    "type":"Back-End",
+                    "name": "Spring Boot",
+                    "icon": ""
+                },
+                {
+                    "type":"Front-End",
+                    "name": "ReactJS",
+                    "icon": ""
+                },
+                {
+                    "type":"Data Base",
+                    "name": "H2",
+                    "icon": ""
+                }
+            ],
+            "url":"",
+            "description":"Reinos Cenfotecos was a castle attack game that consisted in placing terrains and using them to get pieces to the enemy castle to steal their gold. It was developed using ReactJS for the Front-End, and a Spring Boot Application connected to H2 for the Back-End. This was the final project for our Design Patterns course and had more than 9 different GoF Design Patterns such as Proxy, Lightweight, Abstract Factory, and more...",
+            "images":[
+                {
+                    "alt": "Reinos Cenfotecos Game Board",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1622167864/ReinosCenfotecos.PNG",
+                    "name":"Game Board"
+                }
+            ]
+        },
+        {
+            "i18n":"cenfotec",
+            "name":"Asistentes Cenfotec",
+            "date":"II-2018",
+            "position": "QA / Development",
+            "technologies": [
+                {
+                    "type":"Back-End",
+                    "name": "NodeJS",
+                    "icon": ""
+                },
+                {
+                    "type":"Front-End",
+                    "name": "HTML, CSS, JS",
+                    "icon": ""
+                },
+                {
+                    "type":"Data Base",
+                    "name": "MONGODB",
+                    "icon": ""
+                }
+            ],
+            "url":"",
+            "description":"Asistentes Cenfotec was an application designed to automate the Teacher's Aide program at Universidad Cenfotec, some of its responsibilities were tracking the Aide's activities and calculating the due discount percentage in their tuition according to their work. The application was developed using HTML5, CSS3, and JS for the Front-End, and a Node.js/Express.js server connected to MongoDB for the Back-End.",
+            "images":[
+                {
+                    "alt": "Landing Page for Asistentes Cenfotec",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1622167864/AsistentesCenfoLanding.PNG",
+                    "name":"Landing Page"
+                },
+                {
+                    "alt": "User Registry Form for Asistentes Cenfotec",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1622167864/AsistentesCenfoUsuarios.PNG",
+                    "name":"User Registry Form"
+                },
+                {
+                    "alt": "Location Registry Form for Asistentes Cenfotec",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1622167864/AsistentesCenfoSedes.PNG",
+                    "name":"Location Registry Form"
+                },
+                {
+                    "alt": "Profile for Asistentes Cenfotec",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1622167864/AsistentesCenfoPerfil.PNG",
+                    "name":"Profile"
+                }
+            ]
+        },
+        {
+            "i18n":"fitswap",
+            "name":"FitSwap",
+            "date":"III-2020",
+            "position": "Front-End and Back-End Development",
+            "technologies": [
+                {
+                    "type":"Back-End",
+                    "name": "Spring Boot",
+                    "icon": ""
+                },
+                {
+                    "type":"Front-End",
+                    "name": "ReactJS",
+                    "icon": ""
+                },
+                {
+                    "type":"Data Base",
+                    "name": "PostgreSQL",
+                    "icon": ""
+                }
+            ],
+            "url":"",
+            "description":"Fitswap was the final project for our Component Programming course and it was presented at ExpoCenfo as one of the best projects of the last quarter of 2020 because of its continuous deployment environment using AWS technologies. It was designed as a marketplace and social network for local clothing brands and other types of textile industry entrepreneurs to sell and swap their products for other similar items with the community. It was developed using ReactJS for the Front-End, and a Spring Boot Application connected to PostgreSQL for the Back-End.",
+            "images":[
+                {
+                    "alt": "Landing page de FitSwap",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1622167864/FitSwapLanding.PNG",
+                    "name":"Landing Page"
+                },
+                {
+                    "alt": "Perfil de FitSwap modo Oscuro",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1622167864/FitSwapProfile.PNG",
+                    "name":"Profile"
+                },
+                {
+                    "alt": "Post de FitSwap modo Oscuro",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1622167864/FitSwapPostNM.PNG",
+                    "name":"Post Night Mode"
+                },
+                {
+                    "alt": "Landing page de FitSwap modo Oscuro",
+                    "url": "https://res.cloudinary.com/esalomc/image/upload/v1622167864/FitSwapLandingNM.PNG",
+                    "name":"Landing Page Night Mode"
+                }
+            ]
+        }
+    ],
+    "Contact": {
+        "address": "Calle 31, Bo. Fco. Peralta, El Carmen, San José",
+        "phone": "+506 84336258",
+        "email": "esteban.salom@gmail.com",
+        "github": "https://github.com/estebansalom/",
+        "linkedin": "https://www.linkedin.com/in/esteban-salom-bb3317174/",
+        "whatsapp": "https://wa.link/t2gq2q"
+    }
+}
