@@ -1,6 +1,9 @@
 import React from "react";
+import { Link } from "react-router";
+import { useTranslation } from 'react-i18next'
 
-const Portfolio = (props) => {
+const PortfolioItem = (props) => {
+  const { t, i18n } = useTranslation()
   return (
     <div
       className="portfolio__item--base"
@@ -14,10 +17,17 @@ const Portfolio = (props) => {
           href={"/projects#" + props.data.name}
         >
           {props.data.name}
-          {/* <img src={props.data.images ? props.data.images[0].url : ""} alt="" /> */}
         </a>
+        {/* <Link
+          exact
+          to={"/projects#" + props.data.name}
+          activeClassName="selected"
+          className="portfolio__container--base"
+        >
+          {props.data.name}
+        </Link> */}
       </div>
     </div>
   );
 };
-export default Portfolio;
+export default PortfolioItem;

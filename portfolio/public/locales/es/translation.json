@@ -4,7 +4,7 @@
     "app.header.projects":"Proyectos",
     "app.header.cv":"Ver CV",
 
-    "app.parallax.button":"Más Información",
+    "app.parallax.button":"Ver Más",
 
     "app.titles.aboutme":"Sobre Mí",
 
@@ -88,6 +88,8 @@
     "app.experience.tasks.vail.2":"Tomar y preparar ordenes",
     "app.experience.tasks.vail.3":"Mantener el área de trabajo abastecida y limpia",
 
+    "app.toggle-less.button": "Ver menos",
+    "app.toggle-more.button": "Ver más",
 
     "app.titles.formation":"Formación Académica",
 
@@ -115,12 +117,15 @@
     "app.formation.end_date.middle":"Setiembre, 2013",
     "app.formation.degree.middle":"Bachillerato Nacional",
 
+    "app.titles.certifications":"Certificaciones",
 
-    "app.titles.skills":"Habilidades",
+    "app.titles.techskills":"Habilidades Técnicas",
+
+    "app.titles.softskills":"Habilidades Blandas",
 
     "app.soft_skills.1":"Liderazgo",
     "app.soft_skills.2":"Adaptabilidad",
-    "app.soft_skills.3":"Sentido de Responsabilidad",
+    "app.soft_skills.3":"Responsabilidad",
     "app.soft_skills.4":"Pensamiento crítico",
     "app.soft_skills.5":"Auto-motivado",
     "app.soft_skills.6":"Trabajo en equip",

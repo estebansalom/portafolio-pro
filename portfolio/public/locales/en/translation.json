@@ -88,6 +88,8 @@
     "app.experience.tasks.vail.2":"Prepairing and taking orders",
     "app.experience.tasks.vail.3":"Keeping workplace stocked and clean",
 
+    "app.toggle-less.button": "See less",
+    "app.toggle-more.button": "See more",
 
     "app.titles.formation":"Education",
 
@@ -115,12 +117,15 @@
     "app.formation.end_date.middle":"September, 2013",
     "app.formation.degree.middle":"National Bachelor's Degree",
 
+    "app.titles.certifications":"Certifications",
 
-    "app.titles.skills":"Skills",
+    "app.titles.techskills":"Technical Skills",
+
+    "app.titles.softskills":"Soft Skills",
 
     "app.soft_skills.1":"Great Leadership",
     "app.soft_skills.2":"Strong Adaptability",
-    "app.soft_skills.3":"Sense of Responsibility",
+    "app.soft_skills.3":"Responsibility",
     "app.soft_skills.4":"Intuitive Thinking",
     "app.soft_skills.5":"Self-Motivated",
     "app.soft_skills.6":"Team Player",

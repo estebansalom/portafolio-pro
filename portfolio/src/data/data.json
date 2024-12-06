@@ -229,6 +229,39 @@
             "color":"#0E0E0E"
         }
     ],
+    "Certifications":[
+        
+        {
+            "name": "Databricks Certified Data Engineer Associate",
+            "image":"https://res.cloudinary.com/esalomc/image/upload/v1733443247/associate-badge-de.png",
+            "url":"https://credentials.databricks.com/6f054a43-741a-41b5-9b77-0eac815ecf04"
+        },
+        {
+            "name": "Academy Accreditation - Azure Databricks Platform Architect",
+            "image":"https://res.cloudinary.com/esalomc/image/upload/v1733443249/a47d6b69-2f31-4db8-aea2-cc96e782e03b.png",
+            "url":"https://credentials.databricks.com/e021a824-cd9c-420e-9c8f-934e985a41b2"
+        },
+        {
+            "name": "Academy Accreditation - Databricks Fundamentals",
+            "image":"https://res.cloudinary.com/esalomc/image/upload/v1733460464/fundamentals-badge-databricks-2x_1.png",
+            "url":"https://credentials.databricks.com/2a682b75-0c3f-4ab8-9b09-d810c8568ea4"
+        },
+        {
+            "name": "Microsoft Certified: Azure Database Administrator Associate",
+            "image":"https://res.cloudinary.com/esalomc/image/upload/v1733443247/azure-database-administrator-associate-600x600.png",
+            "url":"https://learn.microsoft.com/api/credentials/share/en-us/EstebanSalom-5615/BA07DF4ADAA8183C?sharingId=DE716B8FEB19846F"
+        },
+        {
+            "name": "Microsoft Certified: Azure Data Fundamentals",
+            "image":"https://res.cloudinary.com/esalomc/image/upload/v1733443332/azure-data-fundamentals.png",
+            "url":"https://learn.microsoft.com/api/credentials/share/en-us/EstebanSalom-5615/70DC064FCE47F1F2?sharingId=DE716B8FEB19846F"
+        },
+        {
+            "name": "Microsoft Certified: Azure Fundamentals",
+            "image":"https://res.cloudinary.com/esalomc/image/upload/v1733443331/azure-fundamentals.png",
+            "url":"https://learn.microsoft.com/api/credentials/share/en-us/EstebanSalom-5615/6D87686027646A82?sharingId=DE716B8FEB19846F"
+        }
+    ],
     "Technologies":[
         {
             "name":"ReactJS"
