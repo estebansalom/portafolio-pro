@@ -1,5 +1,7 @@
 import { useState, useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import emailjs from '@emailjs/browser';
+
 import {
   faPhone,
   faLocationArrow,
@@ -36,22 +38,22 @@ const Contact = (props) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(name, email, message);
-    // emailjs
-    //   .sendForm(
-    //     "service_i2jqsja",
-    //     "template_qgclajl",
-    //     e.target,
-    //     "user_ILIpR7l6aN7HnbwOQkHhO"
-    //   )
-    //   .then(
-    //     (result) => {
-    //       console.log(result.text);
-    //       clearState();
-    //     },
-    //     (error) => {
-    //       console.log(error.text);
-    //     }
-    //   );
+    emailjs
+      .sendForm(
+        "service_ifhwkdj",
+        "template_6xh0cvd",
+        e.target,
+        {publicKey: 'jIdYTI-Bh2WTdNGGD'}
+      )
+      .then(
+        (result) => {
+          console.log(result.text);
+          clearState();
+        },
+        (error) => {
+          console.log(error.text);
+        }
+      );
   };
   return (
     <div id="contact" className="landing__contact--base section">
