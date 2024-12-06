@@ -21,11 +21,11 @@ const Layout = () => {
 const router = createBrowserRouter(
   [
     {
-      path: '/portafolio-pro',
+      path: '/portafolio-pro/',
       element: <Layout/>,
       children:[
         {
-          path:'/portafolio-pro',
+          path:'/portafolio-pro/',
           element: <App/>,
 
         },
