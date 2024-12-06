@@ -7,7 +7,6 @@ import Header from './components/header/Header.jsx'
 import { createBrowserRouter, Outlet, RouterProvider } from 'react-router'
 import Contact from './components/contact/Contact.jsx'
 import Projects from './pages/projects/Projects.jsx'
-import Testing from './pages/testing/Testing.jsx'
 
 const Layout = () => {
   return(
@@ -22,16 +21,16 @@ const Layout = () => {
 const router = createBrowserRouter(
   [
     {
-      path: '/',
+      path: '/portafolio-pro',
       element: <Layout/>,
       children:[
         {
-          path:'/',
+          path:'/portafolio-pro',
           element: <App/>,
 
         },
         {
-          path:'/projects',
+          path:'/portafolio-pro/projects',
           element: <Projects/>,
           
         }

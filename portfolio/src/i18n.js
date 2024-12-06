@@ -8,5 +8,8 @@ i18next
 .use(LanguageDetector)
 .use(Backend)
 .init({
-    fallbackLng: 'en'
+    fallbackLng: 'en',
+    backend: {
+        loadPath: '/portafolio-pro/locales/{{lng}}/translation.json'
+    }
 })

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useRef } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faReact, faAngular, faJava, faJs, faPython, faNodeJs, faAws, faHtml5, faCss3, faSass, faGit, faGithub } from "@fortawesome/free-brands-svg-icons";
 import Portfolio from "../../components/portfolio/PortfolioItem";
@@ -13,7 +13,7 @@ const Landing = (props) => {
   useEffect(() => {
     setLandingPageData(JsonData);
   }, []);
-
+  const aboutRef = useRef()
   return (
     <div className="landing__container--base">
 
@@ -94,11 +94,11 @@ const Landing = (props) => {
         }
 
 
-        <a href="#about" className="landing__button--base page-scroll">
+        <button onClick={()=>{aboutRef.current?.scrollIntoView({behavior: 'smooth'})}} className="landing__button--base page-scroll">
           {t("app.parallax.button")}
-        </a>{" "}
+        </button>{" "}
       </div>
-      <div id="about" className="landing__about--base section">
+      <div ref={aboutRef} id="about" className="landing__about--base section">
         <div className="title-underline">
           <h2 className="section-title">{t("app.titles.aboutme")}</h2>
         </div>

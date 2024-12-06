@@ -65,10 +65,10 @@ const Contact = (props) => {
               <div className="contact__title--base">
                 {t("app.footer.description")}
               </div>
-              <form name="sentMessage" validate onSubmit={handleSubmit}>
+              <form name="sentMessage" validate="" onSubmit={handleSubmit}>
                 <div className="row contact__input-row--base">
                   <div className="form-group contact__input--base">
-                    <label for="name"> {t("app.footer.input.name")}</label>
+                    <label htmlFor="name"> {t("app.footer.input.name")}</label>
                     <input
                       type="text"
                       id="name"
@@ -80,7 +80,7 @@ const Contact = (props) => {
                     <p className="help-block text-danger"></p>
                   </div>
                   <div className="form-group contact__input--base">
-                    <label for="email"> {t("app.footer.input.email")}</label>
+                    <label htmlFor="email"> {t("app.footer.input.email")}</label>
                     <input
                       type="email"
                       id="email"
@@ -93,7 +93,7 @@ const Contact = (props) => {
                   </div>
                 </div>
                 <div className="form-group">
-                  <label for="message"> {t("app.footer.input.message")}</label>
+                  <label htmlFor="message"> {t("app.footer.input.message")}</label>
                   <textarea
                     name="message"
                     id="message"

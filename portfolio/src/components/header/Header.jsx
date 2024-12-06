@@ -38,9 +38,7 @@ export default function Header() {
       <div className="header__home-container--base">
 
       <Link
-          exact
-          to="/"
-          activeClassName="selected"
+          to="/portafolio-pro"
           className="header__home--base"
         >
           {t("app.header.portfolio")}
@@ -50,8 +48,7 @@ export default function Header() {
       <div className="header__link-container--base">
 
       <Link
-          to="/projects"
-          activeClassName="selected"
+          to="/portafolio-pro/projects"
           className="header__home--base"
         >
           {t("app.header.projects")}
@@ -60,7 +57,6 @@ export default function Header() {
 
         <a
           href="https://res.cloudinary.com/esalomc/image/upload/v1622169320/EstebanSalomCastillo-SoftwareDeveloper.pdf"
-          activeClassName="selected"
           className="header__link--base"
           target="_blank"
         >
