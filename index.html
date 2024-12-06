@@ -17,15 +17,14 @@
     <title>Esteban Salom</title>
   </head>
   <body>
-    <script>
-      // AWS Amplify needs this to work. See https://github.com/aws/aws-sdk-js/issues/3673
-      const isBrowser = () => typeof window !== "undefined";
-      const isGlobal = () => typeof global !== "undefined";
-      if (!isGlobal() && isBrowser()) {
-        var global = window;
+     <script>
+      window.global = window;
+      window.process = {
+        env: { DEBUG: undefined },
       }
-</script>
-    <div id="root"></div>
+      var exports = {};
+  </script>
+  <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
