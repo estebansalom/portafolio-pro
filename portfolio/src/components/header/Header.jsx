@@ -38,7 +38,7 @@ export default function Header() {
       <div className="header__home-container--base">
 
       <Link
-          to="/portafolio-pro/"
+          to="/"
           className="header__home--base"
         >
           {t("app.header.portfolio")}
@@ -48,7 +48,7 @@ export default function Header() {
       <div className="header__link-container--base">
 
       <Link
-          to="/portafolio-pro/projects"
+          to="/projects"
           className="header__home--base"
         >
           {t("app.header.projects")}
