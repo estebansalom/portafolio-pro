@@ -246,11 +246,6 @@
             "url":"https://credentials.databricks.com/e021a824-cd9c-420e-9c8f-934e985a41b2"
         },
         {
-            "name": "Academy Accreditation - Databricks Fundamentals",
-            "image":"https://res.cloudinary.com/esalomc/image/upload/v1733460464/fundamentals-badge-databricks-2x_1.png",
-            "url":"https://credentials.databricks.com/2a682b75-0c3f-4ab8-9b09-d810c8568ea4"
-        },
-        {
             "name": "Microsoft Certified: Azure Database Administrator Associate",
             "image":"https://res.cloudinary.com/esalomc/image/upload/v1733443247/azure-database-administrator-associate-600x600.png",
             "url":"https://learn.microsoft.com/api/credentials/share/en-us/EstebanSalom-5615/BA07DF4ADAA8183C?sharingId=DE716B8FEB19846F"
