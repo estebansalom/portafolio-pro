@@ -12,20 +12,20 @@ const PortfolioItem = (props) => {
       }}
     >
       <div className="portfolio__overlay--base">
-        <a
+        {/* <a
           className="portfolio__container--base"
           href={"/projects#" + props.data.name}
         >
           {props.data.name}
-        </a>
-        {/* <Link
+        </a> */}
+<Link
           exact
           to={"/projects#" + props.data.name}
           activeClassName="selected"
           className="portfolio__container--base"
         >
           {props.data.name}
-        </Link> */}
+        </Link>
       </div>
     </div>
   );

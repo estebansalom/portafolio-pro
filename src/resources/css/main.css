@@ -162,7 +162,6 @@ li {
   height: 10vh;
   padding-top: 3vh;
   justify-content: space-around;
-  /* background-image: linear-gradient(to bottom, #141414, rgba(0, 0, 0, 0.767)); */
   background-color: #202020;
   box-shadow: 0px 5px 4px -3px rgba(0, 0, 0, 0.84);
 }
@@ -515,6 +514,10 @@ li {
 .badge__image--base{
   max-height: 200px;
 }
+
+/* .badge__image--base:hover{
+  max-height: 200px;
+} */
 
 .landing__portfolio-description--base {
   padding: 0 5% 5%;

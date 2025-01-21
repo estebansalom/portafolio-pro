@@ -230,7 +230,11 @@
         }
     ],
     "Certifications":[
-        
+        {
+            "name": "Databricks Certified Data Analyst Associate",
+            "image":"https://res.cloudinary.com/esalomc/image/upload/v1737499043/17101803123274097900116520533501_svevxh.png",
+            "url":"https://credentials.databricks.com/cf425dca-7b6b-42e3-8ae5-3d1f30ac5069#acc.TWCoDIGc"
+        },
         {
             "name": "Databricks Certified Data Engineer Associate",
             "image":"https://res.cloudinary.com/esalomc/image/upload/v1733443247/associate-badge-de.png",

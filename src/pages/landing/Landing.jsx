@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useRef } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faReact, faAngular, faJava, faJs, faPython, faNodeJs, faAws, faHtml5, faCss3, faSass, faGit, faGithub } from "@fortawesome/free-brands-svg-icons";
-import Portfolio from "../../components/portfolio/PortfolioItem";
+import PortfolioItem from "../../components/portfolio/PortfolioItem";
 import { useTranslation } from 'react-i18next'
 import Badge from "../../components/badge/Badge";
 import JsonData from "../../data/data.json";
@@ -71,25 +71,6 @@ const Landing = (props) => {
             </div>
 
           </div>
-          // <div className='landing__animation-container--base'>
-          //   <div className='landing__animation-down--base'>
-          //     <span>
-          //       Escape complexity, <br />
-          //       Escape limitation, <br />
-          //       Escape hesitation, <br />
-          //       Escape complexity, <br />
-          //     </span>
-          //   </div>
-          //   <div className='landing__animation-up--base'>
-          //     <span>
-          //       embrace simplicity <br />
-          //       embrace opportunities <br />
-          //       embrace possibility <br />
-          //       embrace simplicity <br />
-          //     </span>
-          //   </div>
-
-          // </div>
 
         }
 
@@ -133,7 +114,7 @@ const Landing = (props) => {
         </p>
         <div className="landing__portfolio-items--base">
           {props.data.Projects
-            ? props.data.Projects.map((p, i) => <Portfolio data={p} />)
+            ? props.data.Projects.map((p, i) => <PortfolioItem data={p} />)
             : "Loading..."}
         </div>
       </div>
